@@ -363,7 +363,8 @@ function collisionDetection(){
 function drawScore(){
     ctx.font = "16px Arial";
     ctx.fillStyle = "#0095DD";
-    ctx.fillText("Score: " +score,8,20);
+    //ctx.fillText("Score: " +score ,8,20);
+    ctx.fillText("Score: " +score +"　レンガ崩しを邪魔しないように避けよう！",8,20);
 }
 
 //ライフカウンタ
