@@ -1,0 +1,45 @@
+/*ブロック崩し側のCSS*/
+* { padding :0; margin: 0; } canvas { background: #eee; display: block; margin: 0  auto;} 
+
+/*リコの冒険側のCSS*/
+
+/*#rico{*/
+    /*
+    position:absolute;
+    top: 0;
+    left: 0;
+    */
+    /*
+    transition: all 10ms 0s ease;
+   
+    
+}.twoP{
+    transform: scale(1.7, 1.7)
+}
+.threeP{
+    transform: scale(2.89, 2.89)
+}
+.fourP{
+    transform: scale(4.913, 4.913)
+}
+.fiveP{
+    transform: scale(8.3521, 8.3521)
+}*/
+/*
+.on{
+    transform: scale(2.0, 2.0) translate(0px, 0px);
+}
+.off{
+    transform: scale(1.0, 1.0) translate(0px, 0px);
+}
+*/
+
+
+/*オーダまんのCSS*/
+/*
+#auda{
+    position:absolute;
+    top:0;
+    left:0;*/
+    /*transform: scale(50.0/416.0, 50.0/416.0);*/
+/*}*/
